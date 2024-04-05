@@ -10,7 +10,7 @@ import UIKit
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     // modif
-    
+    // super...
     var window: UIWindow?
 
 
